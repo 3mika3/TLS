@@ -1,0 +1,3 @@
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/system_stm32n6xx_fsbl.c:175:6:SystemInit	4	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/system_stm32n6xx_fsbl.c:330:6:SystemCoreClockUpdate	56	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/system_stm32n6xx_fsbl.c:483:24:SECURE_SystemCoreClockUpdate	16	static

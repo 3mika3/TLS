@@ -1,0 +1,16 @@
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:591:31:ForceZero	24	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:668:33:ctMaskWord32GTE	32	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:773:37:min	24	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:51:5:wc_InitDsaKey	32	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:73:5:wc_InitDsaKey_h	24	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:83:6:wc_FreeDsaKey	16	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:103:12:CheckDsaLN	24	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:424:12:_DsaImportParamsRaw	40	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:488:5:wc_DsaImportParamsRaw	32	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:511:5:wc_DsaImportParamsRawCheck	32	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:534:5:wc_DsaExportParamsRaw	40	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:611:5:wc_DsaExportKeyRaw	40	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:658:5:wc_DsaSign	32	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:664:5:wc_DsaSign_ex	104	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:999:5:wc_DsaVerify	32	static
+../Middlewares/wolfssl/wolfcrypt/src/dsa.c:1005:5:wc_DsaVerify_ex	88	static

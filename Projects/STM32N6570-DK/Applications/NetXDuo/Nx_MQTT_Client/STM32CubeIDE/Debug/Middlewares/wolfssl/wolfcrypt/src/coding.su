@@ -1,0 +1,12 @@
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:55:23:Base64_Char2Val_CT	64	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:96:23:Base64_Char2Val_by_table	16	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:120:5:Base64_SkipNewline	40	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:170:5:Base64_Decode_nonCT	56	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:270:5:Base64_Decode	56	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:380:12:CEscape	40	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:464:12:DoBase64_Encode	88	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:564:5:Base64_Encode	32	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:571:5:Base64_EncodeEsc	32	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:576:5:Base64_Encode_NoNl	32	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:597:5:Base16_Decode	40	static
+../Middlewares/wolfssl/wolfcrypt/src/coding.c:658:5:Base16_Encode	40	static

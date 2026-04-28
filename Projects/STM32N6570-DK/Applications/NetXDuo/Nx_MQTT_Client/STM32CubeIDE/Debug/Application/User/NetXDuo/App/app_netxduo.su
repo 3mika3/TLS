@@ -1,0 +1,7 @@
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:113:6:MX_NetXDuo_Init	64	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:279:12:netx_send	48	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:308:5:netx_recv	64	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:381:13:ip_address_change_notify_callback	16	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:401:13:nx_app_thread_entry	32	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:446:13:App_TCP_Client_Thread_Entry	200	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/NetXDuo/App/app_netxduo.c:867:13:App_Link_Thread_Entry	40	static

@@ -1,0 +1,3 @@
+../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:2273:22:LL_APB1_GRP1_EnableClock	1
+../Application/User/Core/time_measure.c:11:10:TimMeasure_NowUs	1
+../Application/User/Core/time_measure.c:16:6:TimMeasure_Init	1

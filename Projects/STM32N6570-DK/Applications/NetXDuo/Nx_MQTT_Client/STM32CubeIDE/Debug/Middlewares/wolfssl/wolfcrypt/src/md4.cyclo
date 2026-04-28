@@ -1,0 +1,8 @@
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:109:37:rotlFixed	1
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:668:33:ctMaskWord32GTE	1
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:773:37:min	1
+../Middlewares/wolfssl/wolfcrypt/src/md4.c:35:6:wc_InitMd4	2
+../Middlewares/wolfssl/wolfcrypt/src/md4.c:51:13:Transform	1
+../Middlewares/wolfssl/wolfcrypt/src/md4.c:131:23:AddLength	2
+../Middlewares/wolfssl/wolfcrypt/src/md4.c:139:6:wc_Md4Update	6
+../Middlewares/wolfssl/wolfcrypt/src/md4.c:168:6:wc_Md4Final	4

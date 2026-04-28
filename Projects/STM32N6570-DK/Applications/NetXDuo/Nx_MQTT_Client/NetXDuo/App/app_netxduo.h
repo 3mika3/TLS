@@ -52,7 +52,7 @@ extern "C" {
 #define MQTT_PRIORITY               3
 #define SNTP_PRIORITY               5
 #define LINK_PRIORITY               11
-#define THREAD_MEMORY_SIZE          2 * DEFAULT_MEMORY_SIZE
+#define THREAD_MEMORY_SIZE          8 * DEFAULT_MEMORY_SIZE //von 2 auf faktor 8 erhöht
 #define APP_QUEUE_SIZE              10
 
 

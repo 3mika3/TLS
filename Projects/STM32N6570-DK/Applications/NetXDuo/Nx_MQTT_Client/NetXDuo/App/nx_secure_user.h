@@ -242,9 +242,9 @@
 */
 
 /* Defined, this option enables AEAD ciphersuites. */
-/*
+
 #define NX_SECURE_ENABLE_AEAD_CIPHER
-*/
+
 
 /* Defined, this option enables ECJPAKE ciphersuites for DTLS. */
 /*
@@ -402,9 +402,9 @@
 */
 
 /* Defined, this option enables the ECC support in TLS. */
-/*
+
 #define NX_SECURE_ENABLE_ECC_CIPHERSUITE
-*/
+
 
 /* Defined, this option enables SSL 3.0 . */
 /*
@@ -472,6 +472,7 @@ a possible denial-of-service vulnerability.*/
 /*
 #define NX_CRYPTO_AES_USE_RAM_TABLES
 */
+
 
 #ifdef NX_SECURE_TLS_SERVER_DISABLED
 #ifdef NX_SECURE_TLS_CLIENT_DISABLED

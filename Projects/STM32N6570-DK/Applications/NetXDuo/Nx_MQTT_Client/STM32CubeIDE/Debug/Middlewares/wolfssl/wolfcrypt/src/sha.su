@@ -1,0 +1,17 @@
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:109:37:rotlFixed	16	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:139:33:ByteReverseWord32	16	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:181:31:ByteReverseWords	40	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:668:33:ctMaskWord32GTE	32	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:773:37:min	24	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:401:16:InitSha	24	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:426:23:AddLength	24	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:466:16:Transform	112	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:552:5:wc_InitSha_ex	32	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:600:5:wc_ShaUpdate	40	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:786:5:wc_ShaFinalRaw	40	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:824:5:wc_ShaFinal	24	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:1025:5:wc_ShaTransform	16	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:1040:5:wc_InitSha	16	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:1050:6:wc_ShaFree	16	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:1131:5:wc_ShaGetHash	32	static
+../Middlewares/wolfssl/wolfcrypt/src/sha.c:1153:5:wc_ShaCopy	24	static

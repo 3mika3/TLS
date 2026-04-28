@@ -1,0 +1,10 @@
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:591:31:ForceZero	24	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:43:5:wc_AesCbcDecryptWithKey	48	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:71:5:wc_AesCbcEncryptWithKey	48	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:97:5:wc_Des_CbcEncryptWithKey	40	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:115:5:wc_Des_CbcDecryptWithKey	40	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:134:5:wc_Des3_CbcEncryptWithKey	40	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:157:5:wc_Des3_CbcDecryptWithKey	40	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:184:5:wc_BufferKeyDecrypt	56	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:250:5:wc_BufferKeyEncrypt	56	static
+../Middlewares/wolfssl/wolfcrypt/src/wc_encrypt.c:318:5:wc_CryptKey	512	static

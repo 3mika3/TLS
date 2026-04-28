@@ -129,6 +129,8 @@ int main(void)
   /* Configure the system clock */
   SystemClock_Config();
 
+  TimMeasure_Init(); //added
+
   RISAF_Config();
 
   /* USER CODE BEGIN SysInit */
@@ -143,6 +145,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
 
   /* USER CODE END 2 */
+
 
   MX_ThreadX_Init();
 

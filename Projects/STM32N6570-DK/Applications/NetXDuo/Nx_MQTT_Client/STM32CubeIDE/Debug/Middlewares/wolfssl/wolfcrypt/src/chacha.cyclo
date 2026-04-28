@@ -1,0 +1,10 @@
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:109:37:rotlFixed	1
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:420:31:XorWordsOut	2
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:432:31:xorbufout	9
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:668:33:ctMaskWord32GTE	1
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:773:37:min	1
+../Middlewares/wolfssl/wolfcrypt/src/chacha.c:116:5:wc_Chacha_SetIV	3
+../Middlewares/wolfssl/wolfcrypt/src/chacha.c:154:5:wc_Chacha_SetKey	7
+../Middlewares/wolfssl/wolfcrypt/src/chacha.c:227:23:wc_Chacha_wordtobyte	3
+../Middlewares/wolfssl/wolfcrypt/src/chacha.c:274:13:wc_Chacha_encrypt_bytes	6
+../Middlewares/wolfssl/wolfcrypt/src/chacha.c:324:5:wc_Chacha_Process	4

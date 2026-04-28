@@ -1,0 +1,4 @@
+../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:2273:22:LL_APB1_GRP1_EnableClock	24	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32n6xx_hal_timebase_tim.c:41:19:HAL_InitTick	96	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32n6xx_hal_timebase_tim.c:108:6:HAL_SuspendTick	4	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/Core/Src/stm32n6xx_hal_timebase_tim.c:120:6:HAL_ResumeTick	4	static

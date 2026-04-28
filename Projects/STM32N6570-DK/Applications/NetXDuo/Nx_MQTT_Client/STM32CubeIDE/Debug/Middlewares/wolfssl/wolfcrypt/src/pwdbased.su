@@ -1,0 +1,11 @@
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:501:31:XorWords	32	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:513:31:xorbuf	40	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:668:33:ctMaskWord32GTE	32	static
+/home/mika/Schreibtisch/STM32CubeN6/Projects/STM32N6570-DK/Applications/NetXDuo/Nx_MQTT_Client/STM32CubeIDE/Middlewares/wolfssl/wolfcrypt/src/misc.c:773:37:min	24	static
+../Middlewares/wolfssl/wolfcrypt/src/pwdbased.c:60:5:wc_PBKDF1_ex	136	static
+../Middlewares/wolfssl/wolfcrypt/src/pwdbased.c:165:5:wc_PBKDF1	56	static
+../Middlewares/wolfssl/wolfcrypt/src/pwdbased.c:177:5:wc_PBKDF2_ex	72	static
+../Middlewares/wolfssl/wolfcrypt/src/pwdbased.c:303:5:wc_PBKDF2	48	static
+../Middlewares/wolfssl/wolfcrypt/src/pwdbased.c:315:12:DoPKCS12Hash	48	static
+../Middlewares/wolfssl/wolfcrypt/src/pwdbased.c:359:5:wc_PKCS12_PBKDF	48	static
+../Middlewares/wolfssl/wolfcrypt/src/pwdbased.c:369:5:wc_PKCS12_PBKDF_ex	320	static

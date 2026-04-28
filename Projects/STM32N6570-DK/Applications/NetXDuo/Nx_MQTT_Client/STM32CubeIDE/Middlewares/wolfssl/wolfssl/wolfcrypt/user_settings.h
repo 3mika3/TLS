@@ -1,0 +1,121 @@
+/*
+ * user_settings.h
+ *
+ *  Created on: Dec 10, 2025
+ *      Author: mika
+ */
+
+#ifndef MIDDLEWARES_WOLFSSL_WOLFSSL_WOLFCRYPT_USER_SETTINGS_H_
+#define MIDDLEWARES_WOLFSSL_WOLFSSL_WOLFCRYPT_USER_SETTINGS_H_
+#include "stm32n6xx_hal.h"
+#include "stm32n6xx_hal_rng.h"
+
+#define WC_RSA_PSS
+#define WOLFSSL_DUAL_ALG_CERTS
+//#define HAVE_ECC256
+#define WOLFSSL_HAVE_MLKEM
+#define WOLFSSL_HAVE_MlDSA
+//#define WOLFSSL_DILITHIUM_FIPS204_DRAFT
+/* PQC global aktivieren */
+//#define WOLFSSL_HAVE_KYBER
+#define WOLFSSL_DILITHIUM_SMALL
+//#define HAVE_DILITHIUM_LEVEL5
+//#define WOLFSSL_PQC_ONLY
+//#define NO_ECC
+#define HAVE_SHAKE
+//#define WOLFSSL_MLKEM_KYBER
+#define WOLFSSL_WC_DILITHIUM
+#define WOLFSSL_SHAKE256
+#define WOLFSSL_SHAKE128
+#define WOLFSSL_SHA3
+#define WOLFSSL_WC_MLKEM
+//#define HAVE_LIBOQS
+//#define HAVE_DILITHIUM_LEVEL5
+#define WOLFSSL_EXPERIMENTAL_SETTINGS
+#define HAVE_SUPPORTED_CURVES
+//#define HAVE_MLKEM
+//#define WOLFSSL_ML_KEM_1024
+#define HAVE_DILITHIUM
+
+#define USE_WOLFSSL_MEMORY
+#define WOLFSSL_TRACK_MEMORY
+#define WOLFSSL_DEBUG_MEMORY
+
+
+
+#define HAVE_ECC
+#define HAVE_CURVE25519
+#define HAVE_ED25519
+#define WOLFSSL_TLS13
+#define WOLFSSL_SHA256
+#define WOLFSSL_SHA384
+#define WOLFSSL_SHA512
+
+#define HAVE_ML_DSA
+
+
+
+#define WOLFSSL_SMALL_STACK
+#define HAVE_CHACHA
+#define HAVE_POLY1305
+#define WOLFSSL_GENSEED_FORTEST
+#define HAVE_ED25519_SIGN
+#define HAVE_ED25519_VERIFY
+#define HAVE_FFDHE_2048
+#define HAVE_AES
+#define HAVE_AESGCM
+#define HAVE_CHACHA
+#define HAVE_POLY1305
+////#define WOLFSSL_LWIP
+#define WOLFSSL_NO_CLIENT_AUTH
+//#define WOLFSSL_SHA256
+//#define WOLFSSL_SHA384
+//#define OPENSSL_EXTRA
+//#define CUSTOM_RAND_GENERATE_BLOCK
+//#define DEBUG_WOLFSSL
+#define NO_OLD_TLS
+//#define HAVE_ECC
+//#define WOLFSSL_SHA512
+#define WOLFSSL_NO_SOCK
+#define WOLFSSL_USER_IO
+//#define STM32_RNG
+#define WOLFSSL_STM32_CUBEMX
+//#define NO_RSA //edited
+#define HAVE_AEAD
+#define HAVE_HKDF
+#define HAVE_TLS_EXTENSIONS
+//#define NO_DH
+//#define HAVE_ED25519
+//#define HAVE_CURVE25519
+//#define WOLFSSL_TLS13
+//#define WOLFSSL_NO_TLS12
+#define NO_FILESYSTEM
+#define NO_STDIO
+#define NO_DIR
+#define SINGLE_THREADED
+#define NO_WRITEV
+#define NO_STDIO_FILESYSTEM
+//#define NO_READV
+//#define NO_IOVEC
+#define WOLFSSL_NO_ASM
+//#define HAVE_ERRNO_H
+//#include <errno.h>
+
+#undef HAVE_FCNTL
+#undef HAVE_SYS_STAT_H
+#undef HAVE_DIRENT_H
+#undef HAVE_SYS_TIME_H
+#undef HAVE_TIME_H
+//#define NO_DEV_RANDOM
+
+#define NO_ARMASM
+#ifdef WOLFSSL_NO_MALLOC
+  #undef WOLFSSL_NO_MALLOC
+#endif
+
+#ifndef WC_RESEED_INTERVAL
+#define WC_RESEED_INTERVAL 10000u
+#endif
+
+
+#endif /* MIDDLEWARES_WOLFSSL_WOLFSSL_WOLFCRYPT_USER_SETTINGS_H_ */

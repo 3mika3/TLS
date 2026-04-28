@@ -1,0 +1,17 @@
+../Middlewares/wolfssl/src/wolfio.c:268:5:wolfSSL_BioSend	1
+../Middlewares/wolfssl/src/wolfio.c:273:5:wolfSSL_BioReceive	1
+../Middlewares/wolfssl/src/wolfio.c:278:5:BioReceiveInternal	12
+../Middlewares/wolfssl/src/wolfio.c:341:5:SslBioReceive	1
+../Middlewares/wolfssl/src/wolfio.c:359:5:SslBioSend	8
+../Middlewares/wolfssl/src/wolfio.c:2339:6:wolfSSL_CTX_SetIORecv	2
+../Middlewares/wolfssl/src/wolfio.c:2350:6:wolfSSL_CTX_SetIOSend	2
+../Middlewares/wolfssl/src/wolfio.c:2362:6:wolfSSL_SSLSetIORecv	2
+../Middlewares/wolfssl/src/wolfio.c:2374:6:wolfSSL_SSLSetIOSend	2
+../Middlewares/wolfssl/src/wolfio.c:2384:6:wolfSSL_SSLDisableRead	2
+../Middlewares/wolfssl/src/wolfio.c:2391:6:wolfSSL_SSLEnableRead	2
+../Middlewares/wolfssl/src/wolfio.c:2399:6:wolfSSL_SetIOReadCtx	2
+../Middlewares/wolfssl/src/wolfio.c:2406:6:wolfSSL_SetIOWriteCtx	2
+../Middlewares/wolfssl/src/wolfio.c:2413:7:wolfSSL_GetIOReadCtx	2
+../Middlewares/wolfssl/src/wolfio.c:2422:7:wolfSSL_GetIOWriteCtx	2
+../Middlewares/wolfssl/src/wolfio.c:2431:6:wolfSSL_SetIOReadFlags	2
+../Middlewares/wolfssl/src/wolfio.c:2438:6:wolfSSL_SetIOWriteFlags	2
